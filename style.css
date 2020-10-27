@@ -59,3 +59,25 @@ p.title::first-letter {
     float: left;
     line-height: 40px;
 }
+
+ul.nested {
+    color: khaki;
+    font-size: small;
+    font-weight: bold;
+}
+
+ul.nested > li {
+    display: block;
+}
+
+li > span {
+    color: white;
+    font-weight: lighter;
+    margin-left: 16px;
+    display: block;
+}
+
+ol {
+    display: flex;
+    flex-direction: column-reverse;
+}
