@@ -77,7 +77,7 @@ li > span {
     display: block;
 }
 
-ol {
+ol.reversed {
     display: flex;
     flex-direction: column-reverse;
 }
