@@ -13,8 +13,9 @@ body {
 }
 
 .title {
-    color:blue;
+    color: blue;
 }
+
 p.title {
     font-size: 24px;
     font-family: sans-serif;
@@ -39,5 +40,22 @@ img {
     width: 100px;
 }
 
-a:link { color: red;}
-a:visited { color: green;}
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: green;
+}
+
+p.title::first-letter {
+    font-size: 1.5em;
+    font-weight: bold;
+    float: left;
+    line-height: 40px;
+}
