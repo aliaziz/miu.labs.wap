@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration</title>
+    <link rel="stylesheet" href="reg.css">
+</head>
+<body>
+<form action="#" method="post">
+    <div class="grid-container">
+        <div class="grid-header">
+            <h3>Workshop registration</h3>
+            <span>
+            <select name="action" id="action">
+                <option value="more action">More action</option>
+                <option value="more action">I don't know</option>
+            </select>
+        </span>
+        </div>
+        <div class="grid-left">
+            <p class="registration-heading">Register now while seats are available!</p>
+            <div class="label-container">
+                <label class="important-content form-label" for="fname">First Name</label>
+                <input size="30" maxlength="8" id="fname" type="text">
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="lname">Last Name</label>
+                <input size="30" maxlength="8" id="lname" type="text">
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="company">Company/Institution</label>
+                <input size="30" maxlength="8" id="company" type="text">
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="address">Address</label>
+                <textarea maxlength="8" id="address"></textarea>
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="city">City</label>
+                <input size="30" maxlength="8" id="city" type="text">
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="state">State/Province/Region</label>
+                <select name="state-select" id="state">
+                    <option value="ia">IOWA</option>
+                    <option value="ca">California</option>
+                    <option value="wa">Washington</option>
+                </select>
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="country">Country</label>
+                <select name="country-select" id="country">
+                    <option value="ug">Uganda</option>
+                    <option value="us">US</option>
+                    <option value="ke">Kenya</option>
+                </select>
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="mail">Email</label>
+                <input size="30" maxlength="8" id="mail" type="text">
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="phone">Phone</label>
+                <input size="30" maxlength="8" id="phone" type="number">
+            </div>
+        </div>
+        <div class="grid-right">
+            <p class="registration-heading">Lunch</p>
+            <div class="label-container">
+                <label class="important-content form-label" for="meal">Meal preference</label>
+                <select name="country-select" id="meal">
+                    <option value="veg">Vegetarian</option>
+                </select>
+            </div>
+            <p class="registration-heading">Payment details</p>
+            <div class="label-container">
+                <label class="important-content form-label">Payment mode</label>
+                <div class="checkbox">
+                    <input type="checkbox" id="cash" name="cash" value="Cash">
+                    <label for="cash"> Cash </label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" id="cheque" name="cheque" value="cheque">
+                    <label for="cheque"> Cheque </label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" id="draft" name="draft" value="draft">
+                    <label for="draft"> Demand draft </label>
+                </div>
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="chequeNo">DD/Cheque No.</label>
+                <input size="30" maxlength="8" id="chequeNo" type="text">
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="bank_name">Bank Name</label>
+                <input size="30" maxlength="8" id="bank_name" type="text">
+            </div>
+            <div class="label-container">
+                <label class="important-content form-label" for="payable">Payable at</label>
+                <input size="30" maxlength="8" id="payable" type="text">
+            </div>
+        </div>
+        <div class="grid-footer">
+            <div class="button-container">
+                <input class="button" type="submit">
+                <input class="button" type="reset" name="Reset">
+            </div>
+        </div>
+    </div>
+</form>
+</body>
+</html>

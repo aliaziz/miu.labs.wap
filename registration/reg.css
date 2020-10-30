@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.registration-heading {
+    text-decoration: underline;
+    font-family: "American Typewriter", monospace;
+    display: inherit;
+    padding-bottom: 8px;
+}
+
+.label-container {
+    margin: 5px 0 16px 0;
+    display: table-row;
+}
+
+textarea {
+    margin: 5px 0 16px 0;
+}
+select {
+    margin: 5px 0 16px 0;
+}
+
+input {
+    margin: 5px 0 16px 0;
+    vertical-align: top;
+    display: table-cell;
+}
+
+.form-label {
+    font-weight: bold;
+    font-family: sans-serif;
+    display: table-cell;
+}
+
+.important-content::after {
+    padding-right: 16px;
+    content: "*";
+}
+
+select {
+    border-style: none;
+    background: transparent;
+    margin-left: 16px;
+}
+
+h3 {
+    display: inline;
+    padding: 4px;
+}
+
+.grid-left {
+    grid-area: left;
+    margin: 8px;
+}
+
+.grid-right {
+    grid-area: right;
+}
+
+.grid-footer {
+    background: darkgrey;
+    grid-area: footer;
+    align-self: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-areas:
+    'header header'
+    'left right'
+    'footer footer';
+    padding: 8px;
+}
+
+.grid-header {
+    background: #49968e;
+    grid-area: header;
+    padding: 8px;
+}
+
+.checkbox {
+    display: block;
+}
+
+.button {
+    margin: 8px;
+    padding: 8px;
+    border-style: none;
+    color: white;
+    background: #3d8a9f;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
