@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f89da10-a301-4fe7-aa8a-d40fb0c45a79" name="Default Changelist" comment="Changes to add registration file">
-      <change afterPath="$PROJECT_DIR$/intro-js/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-js/text-decorator.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-js/text-decorator/decorated.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-js/text-decorator/decoratemytext.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro-js/text-decorator/decoratemytext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/intro-js" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603996979234</updated>
-      <workItem from="1603996981225" duration="13700000" />
+      <workItem from="1603996981225" duration="17744000" />
     </task>
     <task id="LOCAL-00001" summary="Changes to add registration file">
       <created>1604075083183</created>

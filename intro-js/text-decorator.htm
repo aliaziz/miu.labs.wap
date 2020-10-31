@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!-- saved from url=(0066)http://mumstudents.org/cs472/2016-05-BL/Labs/6/decoratemytext.html -->
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Text Decorator</title>
+    <link href="text-decorator/decoratemytext.css" type="text/css" rel="stylesheet">
+    <script src="text-decorator/decoratemytext.js" type="application/javascript"></script>
+		
+</head>
+
+<body>
+<h1>Text Decorator</h1>
+
+<div>
+    <img src="text-decorator/decorated.gif" alt="very decorated!">
+</div>
+
+<!-- Your UI controls go here -->
+<fieldset>
+    <legend>Text</legend>
+    <textarea name="text-area" id="textarea" cols="30" rows="4"> Sample area </textarea>
+    <br>
+    <button onclick="toMalkovich();">Malkovich</button>
+</fieldset>
+
+<fieldset>
+    <legend>Decorations</legend>
+    <button onclick="decorationHandler()" id="bigger-decoration">Bigger decorations!</button>
+    <br>
+    <input type="checkbox" id="bling" value="bling" onchange="addStyles();">
+    <label for="bling">Bling</label>
+</fieldset>
+
+</body>
+</html>
