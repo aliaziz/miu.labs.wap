@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f89da10-a301-4fe7-aa8a-d40fb0c45a79" name="Default Changelist" comment="Changes to add registration file">
-      <change afterPath="$PROJECT_DIR$/js-animation/ASCIImation.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-animation/animations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-animation/ascii.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-animation/ascii.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-animation/copy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603996979234</updated>
       <workItem from="1603996981225" duration="17922000" />
-      <workItem from="1604244684323" duration="12888000" />
+      <workItem from="1604244684323" duration="12968000" />
     </task>
     <task id="LOCAL-00001" summary="Changes to add registration file">
       <created>1604075083183</created>
@@ -115,9 +110,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-320.1920.1080@0.0.1440.900" timestamp="1604075092960" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603997430841">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup" timestamp="1604443891324">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603997430841" />
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604443891324" />
   </component>
 </project>
