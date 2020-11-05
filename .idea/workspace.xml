@@ -21,10 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9f89da10-a301-4fe7-aa8a-d40fb0c45a79" name="Default Changelist" comment="Changes to add registration file">
       <change afterPath="$PROJECT_DIR$/lab8/lab8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/Maze!.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/Maze!_files/maze.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/Maze!_files/maze.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/miu.labs.wap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/miu.labs.wap.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/console3b.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/console3b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/console4a.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/console4a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/console4b.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/console4b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -56,6 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/intro-js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -110,6 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Changes to add registration file" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="698" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604608530609">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604608530609" />
     <state x="229" y="86" key="SettingsEditor" timestamp="1603997218717">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -118,10 +126,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.-320.1920.1080@0.0.1440.900" timestamp="1604075092960" />
-    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup" timestamp="1604443891324">
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup" timestamp="1604609380153">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603997430841" />
-    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604443891324" />
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1604609380153" />
   </component>
 </project>
