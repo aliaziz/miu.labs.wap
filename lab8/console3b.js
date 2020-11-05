@@ -1,11 +1,11 @@
-const Person = {
+const Person2 = {
     name: ''
 }
 
-const Teacher = Object.create(Person);
-Teacher.name = 'ALI ZIWA';
-Teacher.teach = function(subject) {
+const Teacher2 = Object.create(Person2);
+Teacher2.name = 'ALI ZIWA';
+Teacher2.teach = function(subject) {
     console.log(this.name + " is now teaching "+ subject);
 }
 
-Teacher.teach("Math");
+Teacher2.teach("Math");

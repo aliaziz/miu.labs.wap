@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f89da10-a301-4fe7-aa8a-d40fb0c45a79" name="Default Changelist" comment="Changes to add registration file">
-      <change afterPath="$PROJECT_DIR$/lab8/console1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/console2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/console3a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/console3b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/console4a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/console4b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab8/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab8/lab8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8/console3b.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/console3b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8/console4a.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/console4a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8/console4b.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/console4b.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
